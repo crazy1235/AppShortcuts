@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AppShortcuts</string>
+
+    <string name="text_first_activity">text_first_activity</string>
+    <string name="text_second_activity">text_second_activity</string>
+    <string name="text_third_activity">text_third_activity</string>
+    <string name="text_forth_activity">text_forth_activity</string>
+    <string name="text_fifth_activity">text_fifth_activity</string>
+
+    <!-- shortcut 1 -->
+
+    <string name="shortcut_1_long_label">Add</string>
+    <string name="shortcut_1_short_label">Add tow number get result</string>
+    <string name="shortcut_1_disabled_message">Add Shortcut Disabled</string>
+
+    <!-- shortcut 2 -->
+
+    <string name="shortcut_2_long_label">Subtract</string>
+    <string name="shortcut_2_short_label">One number subtract another number</string>
+    <string name="shortcut_2_disabled_message">Subtract Shortcut Disabled</string>
+
+
+    <!-- shortcut 3 -->
+
+    <string name="shortcut_3_long_label">Setting</string>
+    <string name="shortcut_3_short_label">Setting the App</string>
+    <string name="shortcut_3_disabled_message">Setting Shortcut Disabled</string>
+
+
+    <!-- shortcut 4 -->
+
+    <string name="shortcut_4_long_label">Favorite</string>
+    <string name="shortcut_4_short_label">Favorite the App</string>
+    <string name="shortcut_4_disabled_message">Favorite Shortcut Disabled</string>
+
+
+    <!-- shortcut 5 -->
+
+    <string name="shortcut_5_long_label">Send</string>
+    <string name="shortcut_5_short_label">Send some message</string>
+    <string name="shortcut_5_disabled_message">Send Shortcut Disabled</string>
+
+
+</resources>
