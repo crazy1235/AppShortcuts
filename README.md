@@ -3,8 +3,8 @@ app shortcuts demo
 
 
 
- ![img1](/readme/home_screen.png)
+ ![img1](/readme/home_screen.jpg)
 
- ![img1](/readme/home_screen1.png)
+ ![img1](/readme/home_screen1.jpg)
 
- ![img1](/readme/main_activity.png)
+ ![img1](/readme/main_activity.jpg)
