@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">AppShortcuts</string>
 
+    <string name="show_shortcuts">show current shortcuts</string>
+    <string name="add_shortcut">add dynamic shortcut</string>
+
+
     <string name="text_first_activity">text_first_activity</string>
     <string name="text_second_activity">text_second_activity</string>
     <string name="text_third_activity">text_third_activity</string>
@@ -9,28 +13,28 @@
 
     <!-- shortcut 1 -->
 
-    <string name="shortcut_1_long_label">Add</string>
-    <string name="shortcut_1_short_label">Add tow number get result</string>
+    <string name="shortcut_1_short_label">Add Nums</string>
+    <string name="shortcut_1_long_label">Add tow number get result</string>
     <string name="shortcut_1_disabled_message">Add Shortcut Disabled</string>
 
     <!-- shortcut 2 -->
 
-    <string name="shortcut_2_long_label">Subtract</string>
-    <string name="shortcut_2_short_label">One number subtract another number</string>
-    <string name="shortcut_2_disabled_message">Subtract Shortcut Disabled</string>
+    <string name="shortcut_2_short_label">Play Music</string>
+    <string name="shortcut_2_long_label">play a song</string>
+    <string name="shortcut_2_disabled_message">Play Music Shortcut Disabled</string>
 
 
     <!-- shortcut 3 -->
 
-    <string name="shortcut_3_long_label">Setting</string>
-    <string name="shortcut_3_short_label">Setting the App</string>
+    <string name="shortcut_3_short_label">Setting</string>
+    <string name="shortcut_3_long_label">Setting the App</string>
     <string name="shortcut_3_disabled_message">Setting Shortcut Disabled</string>
 
 
     <!-- shortcut 4 -->
 
-    <string name="shortcut_4_long_label">Favorite</string>
-    <string name="shortcut_4_short_label">Favorite the App</string>
+    <string name="shortcut_4_short_label">Favorite</string>
+    <string name="shortcut_4_long_label">Favorite the App</string>
     <string name="shortcut_4_disabled_message">Favorite Shortcut Disabled</string>
 
 
@@ -39,6 +43,12 @@
     <string name="shortcut_5_long_label">Send</string>
     <string name="shortcut_5_short_label">Send some message</string>
     <string name="shortcut_5_disabled_message">Send Shortcut Disabled</string>
+    <string name="max_shortcuts">最多允许添加的shortcut个数：</string>
+    <string name="static_shortcuts">静态shortcut的个数：</string>
+    <string name="dynamic_shortcuts">动态添加的shortcut的个数：</string>
+    <string name="pinned_shortcuts">添加到桌面上shortcut的个数：</string>
+    <string name="max_width">max width:</string>
+    <string name="max_height">max height:</string>
 
 
 </resources>

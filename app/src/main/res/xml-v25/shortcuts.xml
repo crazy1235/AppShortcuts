@@ -19,7 +19,7 @@
 
     <shortcut
         android:enabled="true"
-        android:icon="@drawable/ic_content_cut_black_24dp"
+        android:icon="@drawable/ic_music_note_black_24dp"
         android:shortcutDisabledMessage="@string/shortcut_2_disabled_message"
         android:shortcutId="shortcut_2"
         android:shortcutLongLabel="@string/shortcut_2_long_label"
